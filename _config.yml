@@ -1,5 +1,5 @@
 title: Dane Wertz's GitHub Portfolio
 description: This portfolio showcases my Python, R, and SQL projects and data analyses.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
