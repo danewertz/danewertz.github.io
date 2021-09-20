@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Me](/pics/pc2021.png)
+![Me](/pics/IMG_8151.jpg)
 
 Data Visualizations:
 
