@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="text-align: center;">![Me](/pics/IMG_8151.jpg)</p>
+![Me](/pics/IMG_8151.jpg)
 
 Data Visualizations:
 
