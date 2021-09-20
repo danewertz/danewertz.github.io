@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Class Image](/pics/classimage.jpg)
+![Bronson](/pics/bronson.jfif)
 
 Data Visualizations:
 
