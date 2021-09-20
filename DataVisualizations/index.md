@@ -10,4 +10,4 @@ This first file contains a Clustered Bar Chart showing Private and Public constr
 -  [Clustered Bar Chart (ipynb)](M3Graphing.ipynb)
 
 
-[Home](danewertz.github.io)
+[Home](https://danewertz.github.io/)
