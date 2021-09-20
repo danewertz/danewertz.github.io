@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Bronson](/pics/bronson.jfif)
+![Me](/pics/pc2021.jpg)
 
 Data Visualizations:
 
