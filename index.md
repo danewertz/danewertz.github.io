@@ -6,5 +6,5 @@ layout: default
 
 Data Visualizations:
 
-- [Data Visualization GitHub Repositories](/DataVisualizations)
+- [Data Visualization GitHub Repositories](https://github.com/danewertz/danewertz.github.io/tree/main/DataVisualizations)
 - [Clustered Bar Chart](/DataVisualizations/index.md)
