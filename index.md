@@ -6,4 +6,5 @@ layout: default
 
 Data Visualizations:
 
+- [Data Visualization GitHub Repositories](/DataVisualizations)
 - [Clustered Bar Chart](/DataVisualizations/index.md)
